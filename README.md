@@ -2,7 +2,6 @@
 
 #### Draft 1 - 10th July
 
-
 ## Preview
 
-➡️ [Watch Demo Video](https://github.com/seika-afk/Termbot/demo.mp4)
+🎥 [Click to watch demo video](./demo.mp4)
