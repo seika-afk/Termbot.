@@ -1,0 +1,9 @@
+402 Client Error: Payment Required for url: https://router.huggingface.co/novita/v3/openai/chat/completions (Request ID: Root=1-6870ac19-04df539756a47c09627747b4;b4bcd425-cc05-4288-a753-b524c4582d62)
+
+You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.
+402 Client Error: Payment Required for url: https://router.huggingface.co/fireworks-ai/inference/v1/chat/completions (Request ID: Root=1-6870c20e-2ba01a9c7c66a6d808610634;f3d2ffb6-ef68-42ef-a20b-134483aa64a0)
+
+You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.
+402 Client Error: Payment Required for url: https://router.huggingface.co/fireworks-ai/inference/v1/chat/completions (Request ID: Root=1-6870c221-33dc413c5255d50506b4398c;ffc2d977-f303-4cbd-b87c-232b549b4038)
+
+You have exceeded your monthly included credits for Inference Providers. Subscribe to PRO to get 20x more monthly included credits.

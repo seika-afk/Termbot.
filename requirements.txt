@@ -1,0 +1,6 @@
+langchain
+pyfiglet
+pyperclip
+InquirerPy
+huggingface_hub
+
